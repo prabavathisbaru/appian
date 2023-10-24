@@ -1,8 +1,5 @@
 {
-  "posts":[
-{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"Appian"},
-{"type":"table","name":"AIS_Asset","database":"Appian","data":
+  "posts":
 [
 {"id":"1","type":"1","name":"MacBook Pro 16” 16GB RAM","serialNumber":"QNO82ECP5AE","owner":"jodi.yeates","awaitingPickup":null,"createdOn":"2022-07-02","createdBy":"roger.traynor","lastModifiedOn":"2022-07-10","lastModifiedBy":"norrie.schorah","isActive":"1"},
 {"id":"2","type":"1","name":"ThinkPad P16s 16” Intel Mobile Workstation","serialNumber":"FHB29TLY9KN","owner":"danila.sandels","awaitingPickup":null,"createdOn":"2021-07-26","createdBy":"norrie.schorah","lastModifiedOn":"2021-08-04","lastModifiedBy":"norrie.schorah","isActive":"1"},
@@ -45,8 +42,7 @@
 {"id":"39","type":"3","name":"Jabra Evolve2 65","serialNumber":"ERI64QUX0BF","owner":"","awaitingPickup":null,"createdOn":"2022-04-28","createdBy":"rogers.traynor","lastModifiedOn":"2022-07-26","lastModifiedBy":"norrie.schorah","isActive":"0"},
 {"id":"40","type":"3","name":"Jabra Evolve2 65","serialNumber":"VOY50XNK9RO","owner":"duky.whitwell","awaitingPickup":null,"createdOn":"2021-10-06","createdBy":"norrie.schorah","lastModifiedOn":"2021-10-11","lastModifiedBy":"roger.traynor","isActive":"1"}
 ]
-}
-]
+
 ,
   "comments": [
     {
